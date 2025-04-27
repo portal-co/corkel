@@ -29,6 +29,9 @@
 #define LACKS_ERRNO_H 1
 #define LACKS_STDLIB_H 1
 #define LACKS_STRING_H 1
+#define LACKS_SYS_MMAN_H 1
+#define LACKS_SYS_CDEFS_H 1
+#define LACKS_FCNTL_H 1
 #define MALLOC_FAILURE_ACTION do{}while(0)
 
 // Disable malloc statistics generation to reduce code size.
