@@ -1,13 +1,14 @@
 # corkel
 
 ## Description
-Project corkel
+A kernel or core system ("Corkel") likely written in C/Rust, with build scripts and 3rd party integrations.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Develop core kernel functionalities
+- [ ] Manage build system (Makefile, build.sh)
 
 ## Progress
-- [ ] Initial setup
+- [ ] Source structure and build scripts present
 
 ---
 *AI assisted*
